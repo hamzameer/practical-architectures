@@ -1,0 +1,17 @@
+name: mingpttutorial
+channels:
+  - defaults
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pytorch::pytorch=2.0.0
+  - pytorch::torchvision=0.15.0
+  - pip
+  - jupyterlab
+  - gradio
+  - transformers
+  - datasets
+  - regex
+  - mediapy
