@@ -1,3 +1,6 @@
 [submodule "minGPT"]
 	path = minGPT
 	url = https://github.com/karpathy/minGPT.git
+[submodule "torch-spatial-kmeans"]
+	path = torch-spatial-kmeans
+	url = git@github.com:mike-holcomb/torch-spatial-kmeans.git
