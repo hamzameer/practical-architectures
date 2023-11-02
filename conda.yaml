@@ -13,3 +13,5 @@ dependencies:
   - jupyterlab
   - gradio
   - datasets
+  - regex
+  - transformers
