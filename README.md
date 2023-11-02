@@ -19,12 +19,16 @@ module load python
 source activate
 
 # 6. activate the exercise environment
-conda activate 
+conda activate /project/nanocourse/PracArchDL23/shared/Day2Afternoon/env
 
-# 7. run environment health check script
+# 7. set environment variables
+source set_envs.sh
+
+# 8. run environment health check script
 python ./check.py
-
 ```
+
+**Raise your hand if there are are any error messages after running `check.py`**
 
 
 ## Exercise 1: Review of Transformer Architecture using minGPT
