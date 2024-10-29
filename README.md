@@ -11,7 +11,7 @@ This repository contains the exercises for our session on the Transformer archit
 cd ~
 
 # 2. clone exercise files
-git clone https://github.com/mike-holcomb/practical-architectures.git
+git clone https://github.com/hamzameer/practical-architectures.git
 
 # 3. change into exercise file directory
 cd practical-architectures
@@ -23,7 +23,7 @@ module load python
 source activate
 
 # 6. activate the exercise environment
-conda activate /project/nanocourse/PracArchDL23/shared/Day2Afternoon/env
+conda activate /project/nanocourse/PracArchDL/shared/Day2Noon/env
 
 # 7. set environment variables
 source set_envs.sh
