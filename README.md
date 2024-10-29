@@ -1,3 +1,5 @@
+Forked from: https://github.com/mike-holcomb/practical-architectures.git
+
 # Practical Architectures for Deep Learning - Day 2 PM
 **Vision Transformers and their Applications**
 
